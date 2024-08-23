@@ -1,6 +1,8 @@
 # guard
 
-A new Flutter project.
+
+
+A Flutter application consists of two components: one for the blind user and another for the helper. The helper's app includes features to track the location of the blind user, communicate with them through a chat interface, and view a comprehensive dashboard. This dashboard provides monthly analytics on the blind user's emotional state using machine learning. It also includes an emergency section that displays the number of times the emergency button was pressed and the location of each incident. The blind user's app is designed with a simple interface that includes a chat feature and an emergency button to alert the helper in case of an urgent situation.
 
 ## Getting Started
 
